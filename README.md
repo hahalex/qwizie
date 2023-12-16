@@ -1,1 +1,2 @@
-через Main.java желательно в intellij idea
+через Main.java(src/main/java/com/example/qwiz)
+желательно в intellij idea
