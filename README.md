@@ -1,2 +1,5 @@
-через Main.java(src/main/java/com/example/qwiz)
-желательно в intellij idea
+сделано в рамках программы по предмету "Разработка и анализ требований" ПИ (09. 03. 04) ИКИТ СФУ
+
+____________________________________
+запускать через Main.java (src/main/java/com/example/qwiz), желательно в intellij idea
+
